@@ -15,7 +15,7 @@ This sample uses the commercial SAP product Data Attribute Recommendation. For d
 
 Download these files directly from GitHub as a [ZIP file](https://github.com/SAP-samples/data-attribute-recommendation-postman-tutorial-sample/archive/master.zip), or by using the git command line tool:
 
-    git clone https://github.com/SAP-samples/data-attribute-recommendation-postman-tutorial-sample.git
+    git clone https://github.com/SAP-samples/data-attribute-recommendation-postman-tutorial-sample
   
 ## Configuration
 
