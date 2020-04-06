@@ -4,7 +4,7 @@
 
 This repository contains the JSON sample code files and also the CSV dataset example sample file used in the tutorial mission [Use Machine Learning to Classify Data Records](https://developers.sap.com/mission.cp-aibus-data-attribute.html).
 
-This sample uses the commercial SAP product Data Attribute Recommendation. For details on how to use these sample files, see se Machine Learning to Classify Data Records](https://developers.sap.com/mission.cp-aibus-data-attribute.html).
+This sample uses the commercial SAP product Data Attribute Recommendation. For details on how to use these sample files, see the tutorial mission [Use Machine Learning to Classify Data Records](https://developers.sap.com/mission.cp-aibus-data-attribute.html).
 
 ## Requirements
 
