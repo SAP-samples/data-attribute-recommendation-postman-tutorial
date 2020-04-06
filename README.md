@@ -2,13 +2,13 @@
 
 ## Description
 
-This repository contains the JSON sample code files and also the CSV dataset example sample file used in the tutorial mission [Use Machine Learning to Classify Data Records] (https://developers.sap.com/mission.cp-aibus-data-attribute.html).
+This repository contains the JSON sample code files and also the CSV dataset example sample file used in the tutorial mission [Use Machine Learning to Classify Data Records](https://developers.sap.com/mission.cp-aibus-data-attribute.html).
 
-This sample uses the commercial SAP product Data Attribute Recommendation. For details on how to use these sample files, see se Machine Learning to Classify Data Records] (https://developers.sap.com/mission.cp-aibus-data-attribute.html).
+This sample uses the commercial SAP product Data Attribute Recommendation. For details on how to use these sample files, see se Machine Learning to Classify Data Records](https://developers.sap.com/mission.cp-aibus-data-attribute.html).
 
 ## Requirements
 
-- [Data Attribute Recommendation](https://www.sap.com/products/cloud-platform/capabilities/data-driven-insights.services.html#data-attribute) (SAP AI Business Services and SAP Cloud Platform commercial service) or a [Free Trial Account on SAP Cloud Platform](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
+- [Data Attribute Recommendation](https://www.sap.com/products/cloud-platform/capabilities/data-driven-insights.services.html#data-attribute) ([SAP AI Business Services](https://help.sap.com/aibus) and [SAP Cloud Platform](https://help.sap.com/viewer/product/CP/Cloud/en-US) commercial service) or a [Free Trial Account on SAP Cloud Platform](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
 - [Postman API Development Environment](https://developers.sap.com/tutorials/api-tools-postman-install.html)
 
 ## Download and Installation:
