@@ -19,7 +19,7 @@ Download these files directly from GitHub as a [ZIP file](https://github.com/SAP
   
 ## Configuration
 
-For configuration instructions, see [Try Out Data Attribute Recommendation Using a REST Client] (link to tutorial group).
+For configuration instructions, see the tutorial mission [Use Machine Learning to Classify Data Records](https://developers.sap.com/mission.cp-aibus-data-attribute.html).
 
 ## How to obtain support:
 
