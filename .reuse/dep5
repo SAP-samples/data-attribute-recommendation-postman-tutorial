@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Data Attribute Recommendation - Postman Collection and Dataset Example Sample Files
+Upstream-Contact: Juliana Morais <juliana.morais@sap.com>
+Source: https://github.com/SAP-samples/data-attribute-recommendation-postman-tutorial
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
