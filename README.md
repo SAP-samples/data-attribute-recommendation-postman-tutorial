@@ -1,4 +1,4 @@
-<!-- placeholder for badge [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/data-attribute-recommendation-postman-tutorial)](https://api.reuse.software/info/github.com/SAP-samples/data-attribute-recommendation-postman-tutorial) -->
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/data-attribute-recommendation-postman-tutorial)](https://api.reuse.software/info/github.com/SAP-samples/data-attribute-recommendation-postman-tutorial)
 
 # Data Attribute Recommendation - Postman Collection and Dataset Example Sample Files   
 
