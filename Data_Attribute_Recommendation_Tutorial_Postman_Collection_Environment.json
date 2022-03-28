@@ -26,6 +26,12 @@
 			"key": "model_template_id",
 			"value": "d7810207-ca31-4d4d-9b5a-841a644fd81f",
 			"enabled": true
+		},
+		{
+			"key": "business_blueprint_id",
+			"value": "4788254b-0bad-4757-a67f-92d5b55f322d",
+			"type": "default",
+			"enabled": true
 		}
 	],
 	"_postman_variable_scope": "environment",
