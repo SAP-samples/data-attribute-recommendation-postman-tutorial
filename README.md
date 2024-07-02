@@ -16,7 +16,7 @@ This sample uses the commercial SAP product Data Attribute Recommendation. For d
 
 ## Requirements
 
-- [Data Attribute Recommendation](https://help.sap.com/dar) - [SAP AI Services](https://help.sap.com/ais) and [SAP Business Technology Platform (SAP BTP)](https://help.sap.com/docs/btp) - commercial service or a [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
+- [Data Attribute Recommendation](https://help.sap.com/dar) - [SAP AI Services](https://help.sap.com/ais) and [SAP Business Technology Platform (SAP BTP)](https://help.sap.com/docs/btp) - commercial service or a [Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
 - [Postman API Development Environment](https://developers.sap.com/tutorials/api-tools-postman-install.html)
 
 ## Download and Installation:
