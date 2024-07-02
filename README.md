@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2020 SAP AI Business Services
+SPDX-FileCopyrightText: 2020 SAP SE or an SAP affiliate company and data-attribute-recommendation-postman-tutorial contributors
 
 SPDX-License-Identifier: Apache-2.0
 -->
