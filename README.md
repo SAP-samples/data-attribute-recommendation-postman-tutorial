@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2021 SAP AI Business Services
+SPDX-FileCopyrightText: 2024 SAP AI Services
 
 SPDX-License-Identifier: Apache-2.0
 -->
@@ -16,7 +16,7 @@ This sample uses the commercial SAP product Data Attribute Recommendation. For d
 
 ## Requirements
 
-- [Data Attribute Recommendation](https://help.sap.com/dar) - [SAP AI Business Services](https://help.sap.com/aibus) and [SAP Business Technology Platform (SAP BTP)](https://help.sap.com/viewer/product/CP/Cloud/en-US) - commercial service or a [Free Trial Account on SAP BTP](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
+- [Data Attribute Recommendation](https://help.sap.com/dar) - [SAP AI Services](https://help.sap.com/ais) and [SAP Business Technology Platform (SAP BTP)](https://help.sap.com/docs/btp) - commercial service or a [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
 - [Postman API Development Environment](https://developers.sap.com/tutorials/api-tools-postman-install.html)
 
 ## Download and Installation:
@@ -35,7 +35,7 @@ If you face any issue with the JSON and CSV files, please log a bug here in GitH
 
 ## License
 
-Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](/LICENSE).
+Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](/LICENSE).
 
 ## Data and License
 
