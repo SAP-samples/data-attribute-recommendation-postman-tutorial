@@ -1,5 +1,6 @@
 <!--
 SPDX-FileCopyrightText: 2021 SAP AI Business Services
+
 SPDX-License-Identifier: Apache-2.0
 -->
 
