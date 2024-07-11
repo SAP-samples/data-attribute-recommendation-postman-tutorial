@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Juliana Morais <juliana.morais@sap.com>
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/data-attribute-recommendation-postman-tutorial)](https://api.reuse.software/info/github.com/SAP-samples/data-attribute-recommendation-postman-tutorial)
 
 # Data Attribute Recommendation - Postman Collection and Dataset Example Sample Files   
