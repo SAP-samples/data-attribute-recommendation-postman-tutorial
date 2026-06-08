@@ -6,8 +6,11 @@ SPDX-License-Identifier: Apache-2.0
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/data-attribute-recommendation-postman-tutorial)](https://api.reuse.software/info/github.com/SAP-samples/data-attribute-recommendation-postman-tutorial)
 
-# Data Attribute Recommendation - Postman Collection and Dataset Example Sample Files   
 
+# Data Attribute Recommendation - Postman Collection and Dataset Example Sample Files   
+>
+> ⚠️ Data Attribute Recommendation has been removed from the list of Eligible Cloud Services since March, 2026.
+>
 ## Description
 
 This repository contains the JSON sample code files and also the CSV dataset example sample file used in the tutorial mission [Use Machine Learning to Classify Data Records](https://developers.sap.com/mission.cp-aibus-data-attribute.html).
